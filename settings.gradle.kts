@@ -24,7 +24,7 @@ var addOns = listOf(
     "authstats",
     "automation",
     "beanshell",
-    "browserView",
+    // "browserView",
     "bruteforce",
     "bugtracker",
     "callgraph",
